@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/frontlab7/static/css/main.3db80129.chunk.css",
+    "main.js": "/frontlab7/static/js/main.8fef26e5.chunk.js",
+    "main.js.map": "/frontlab7/static/js/main.8fef26e5.chunk.js.map",
+    "runtime-main.js": "/frontlab7/static/js/runtime-main.e2bc296a.js",
+    "runtime-main.js.map": "/frontlab7/static/js/runtime-main.e2bc296a.js.map",
+    "static/js/2.03de2d69.chunk.js": "/frontlab7/static/js/2.03de2d69.chunk.js",
+    "static/js/2.03de2d69.chunk.js.map": "/frontlab7/static/js/2.03de2d69.chunk.js.map",
+    "index.html": "/frontlab7/index.html",
+    "static/css/main.3db80129.chunk.css.map": "/frontlab7/static/css/main.3db80129.chunk.css.map",
+    "static/js/2.03de2d69.chunk.js.LICENSE.txt": "/frontlab7/static/js/2.03de2d69.chunk.js.LICENSE.txt",
+    "static/media/NN.88115001.png": "/frontlab7/static/media/NN.88115001.png",
+    "static/media/booklovers.73573f55.jpg": "/frontlab7/static/media/booklovers.73573f55.jpg",
+    "static/media/cruelprince.3ae92f5e.jpg": "/frontlab7/static/media/cruelprince.3ae92f5e.jpg",
+    "static/media/harrypotter.0a03fec1.jpg": "/frontlab7/static/media/harrypotter.0a03fec1.jpg",
+    "static/media/lovebrain.61900e45.jpg": "/frontlab7/static/media/lovebrain.61900e45.jpg",
+    "static/media/lovehypothesis.1e36a5ce.jpg": "/frontlab7/static/media/lovehypothesis.1e36a5ce.jpg",
+    "static/media/narnia.1b83ff98.jpg": "/frontlab7/static/media/narnia.1b83ff98.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2bc296a.js",
+    "static/js/2.03de2d69.chunk.js",
+    "static/css/main.3db80129.chunk.css",
+    "static/js/main.8fef26e5.chunk.js"
+  ]
+}
