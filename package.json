@@ -10,7 +10,7 @@
   "devDependencies": {
     "gh-pages": "^6.3.0"
   },
-    "homepage": "https://sunnytea0.github.io/<frontlabs>/lab7",   
+   "homepage": "https://sunnytea0.github.io/frontlab7",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
